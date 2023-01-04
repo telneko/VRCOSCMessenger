@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VRChat OSC Messenger</string>
+    <string name="test">test</string>
+    <string name="dummy_ipaddress">example: 192.168.11.2</string>
+</resources>
